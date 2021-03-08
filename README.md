@@ -42,4 +42,4 @@ Mobile Game Developer Home Exercise.
 ## Unit Tests
 
 I have added several unit tests which cover basic functionality at `Assets/Tests`.  
-It was fun to see them pass :laughing:
+It was fun to see them pass. :laughing:
